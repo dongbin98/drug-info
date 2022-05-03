@@ -1,0 +1,535 @@
+Acitretin	Doxycycline Hyclate Hydrate	Retinoids/Tetracyclines
+임상효과 : 두 약물의 병용투여시 두개 내압이 상승하여 가성뇌종양(두개내 고혈압)을 유발할 수 있다.
+기전 : 정확한 상호작용기전은 밝혀지지 않았으나, 약물의 상가 또는 상승작용에 따른 부작용 발생으로 추정된다.
+처치 : 두 약물은 병용투여하지 않는다.
+
+Aminophylline Anhydrous	Doxycycline Hyclate Hydrate	Theophyllines/Tetracyclines
+임상효과 : 두 약물의 병용투여시 테오필린계 약물(테오필린 등)에 대한 부작용의 발현 위험이 증가할 수 있다.
+기전 : 정확한 상호작용 기전은 밝혀지지 않았다.
+처치 : 테오필린계 약물을 투여 중인 환자에게 테트라사이클린계 약물의 투여를 시작하거나 중단할 때에는 테오필린계 약물의 혈중 농도를 주의깊게 모니터링 해야 하고, 필요시 약물의 용량을 조절한다.
+
+Aminophylline Hydrate	Doxycycline Hyclate Hydrate	Theophyllines/Tetracyclines
+임상효과 : 두 약물의 병용투여시 테오필린계 약물(테오필린 등)에 대한 부작용의 발현 위험이 증가할 수 있다.
+기전 : 정확한 상호작용 기전은 밝혀지지 않았다.
+처치 : 테오필린계 약물을 투여 중인 환자에게 테트라사이클린계 약물의 투여를 시작하거나 중단할 때에는 테오필린계 약물의 혈중 농도를 주의깊게 모니터링 해야 하고, 필요시 약물의 용량을 조절한다.
+
+Amoxicillin Anhydrous	Doxycycline Hyclate Hydrate	Penicillins/Tetracyclines
+임상효과 : 두 약물의 병용투여시 페니실린계 약물의 약리학적 효과 및 치료 효과가 감약될 수 있다.
+기전 : 테트라사이클린계 약물의 정균 작용이 페니실린계 약물의 살균작용을 방해할 수 있다.
+처치 : 두 약물의 병용투여는 피하는 것이 바람직하다.
+
+Amoxicillin Hydrate	Doxycycline Hyclate Hydrate	Penicillins/Tetracyclines
+임상효과 : 두 약물의 병용투여시 페니실린계 약물의 약리학적 효과 및 치료 효과가 감약될 수 있다.
+기전 : 테트라사이클린계 약물의 정균 작용이 페니실린계 약물의 살균작용을 방해할 수 있다.
+처치 : 두 약물의 병용투여는 피하는 것이 바람직하다.
+
+Amoxicillin Sodium	Doxycycline Hyclate Hydrate	Penicillins/Tetracyclines
+임상효과 : 두 약물의 병용투여시 페니실린계 약물의 약리학적 효과 및 치료 효과가 감약될 수 있다.
+기전 : 테트라사이클린계 약물의 정균 작용이 페니실린계 약물의 살균작용을 방해할 수 있다.
+처치 : 두 약물의 병용투여는 피하는 것이 바람직하다.
+
+Ampicillin Anhydrous	Doxycycline Hyclate Hydrate	Penicillins/Tetracyclines
+임상효과 : 두 약물의 병용투여시 페니실린계 약물의 약리학적 효과 및 치료 효과가 감약될 수 있다.
+기전 : 테트라사이클린계 약물의 정균 작용이 페니실린계 약물의 살균작용을 방해할 수 있다.
+처치 : 두 약물의 병용투여는 피하는 것이 바람직하다.
+
+Ampicillin Hydrate	Doxycycline Hyclate Hydrate	Penicillins/Tetracyclines
+임상효과 : 두 약물의 병용투여시 페니실린계 약물의 약리학적 효과 및 치료 효과가 감약될 수 있다.
+기전 : 테트라사이클린계 약물의 정균 작용이 페니실린계 약물의 살균작용을 방해할 수 있다.
+처치 : 두 약물의 병용투여는 피하는 것이 바람직하다.
+
+Ampicillin Sodium	Doxycycline Hyclate Hydrate	Penicillins/Tetracyclines
+임상효과 : 두 약물의 병용투여시 페니실린계 약물의 약리학적 효과 및 치료 효과가 감약될 수 있다.
+기전 : 테트라사이클린계 약물의 정균 작용이 페니실린계 약물의 살균작용을 방해할 수 있다.
+처치 : 두 약물의 병용투여는 피하는 것이 바람직하다.
+
+Bacampicillin Hydrochloride	Doxycycline Hyclate Hydrate	Penicillins/Tetracyclines
+임상효과 : 두 약물의 병용투여시 페니실린계 약물의 약리학적 효과 및 치료 효과가 감약될 수 있다.
+기전 : 테트라사이클린계 약물의 정균 작용이 페니실린계 약물의 살균작용을 방해할 수 있다.
+처치 : 두 약물의 병용투여는 피하는 것이 바람직하다.
+
+Benzylpenicillin	Doxycycline Hyclate Hydrate	Penicillins/Tetracyclines
+임상효과 : 두 약물의 병용투여시 페니실린계 약물의 약리학적 효과 및 치료 효과가 감약될 수 있다.
+기전 : 테트라사이클린계 약물의 정균 작용이 페니실린계 약물의 살균작용을 방해할 수 있다.
+처치 : 두 약물의 병용투여는 피하는 것이 바람직하다.
+
+Carbenicillin	Doxycycline Hyclate Hydrate	Penicillins/Tetracyclines
+임상효과 : 두 약물의 병용투여시 페니실린계 약물의 약리학적 효과 및 치료 효과가 감약될 수 있다.
+기전 : 테트라사이클린계 약물의 정균 작용이 페니실린계 약물의 살균작용을 방해할 수 있다.
+처치 : 두 약물의 병용투여는 피하는 것이 바람직하다.
+
+Carbenicillin Disodium	Doxycycline Hyclate Hydrate	Penicillins/Tetracyclines
+임상효과 : 두 약물의 병용투여시 페니실린계 약물의 약리학적 효과 및 치료 효과가 감약될 수 있다.
+기전 : 테트라사이클린계 약물의 정균 작용이 페니실린계 약물의 살균작용을 방해할 수 있다.
+처치 : 두 약물의 병용투여는 피하는 것이 바람직하다.
+
+Carbenicillin Indanyl Sodium	Doxycycline Hyclate Hydrate	Penicillins/Tetracyclines
+임상효과 : 두 약물의 병용투여시 페니실린계 약물의 약리학적 효과 및 치료 효과가 감약될 수 있다.
+기전 : 테트라사이클린계 약물의 정균 작용이 페니실린계 약물의 살균작용을 방해할 수 있다.
+처치 : 두 약물의 병용투여는 피하는 것이 바람직하다.
+
+Carbenicillin Phenyl Sodium	Doxycycline Hyclate Hydrate	Penicillins/Tetracyclines
+임상효과 : 두 약물의 병용투여시 페니실린계 약물의 약리학적 효과 및 치료 효과가 감약될 수 있다.
+기전 : 테트라사이클린계 약물의 정균 작용이 페니실린계 약물의 살균작용을 방해할 수 있다.
+처치 : 두 약물의 병용투여는 피하는 것이 바람직하다.
+
+Cloxacillin	Doxycycline Hyclate Hydrate	Penicillins/Tetracyclines
+임상효과 : 두 약물의 병용투여시 페니실린계 약물의 약리학적 효과 및 치료 효과가 감약될 수 있다.
+기전 : 테트라사이클린계 약물의 정균 작용이 페니실린계 약물의 살균작용을 방해할 수 있다.
+처치 : 두 약물의 병용투여는 피하는 것이 바람직하다.
+
+Cloxacillin Sodium	Doxycycline Hyclate Hydrate	Penicillins/Tetracyclines
+임상효과 : 두 약물의 병용투여시 페니실린계 약물의 약리학적 효과 및 치료 효과가 감약될 수 있다.
+기전 : 테트라사이클린계 약물의 정균 작용이 페니실린계 약물의 살균작용을 방해할 수 있다.
+처치 : 두 약물의 병용투여는 피하는 것이 바람직하다.
+
+Dicloxacillin	Doxycycline Hyclate Hydrate	Penicillins/Tetracyclines
+임상효과 : 두 약물의 병용투여시 페니실린계 약물의 약리학적 효과 및 치료 효과가 감약될 수 있다.
+기전 : 테트라사이클린계 약물의 정균 작용이 페니실린계 약물의 살균작용을 방해할 수 있다.
+처치 : 두 약물의 병용투여는 피하는 것이 바람직하다.
+
+Dicloxacillin Sodium Hydrate	Doxycycline Hyclate Hydrate	Penicillins/Tetracyclines
+임상효과 : 두 약물의 병용투여시 페니실린계 약물의 약리학적 효과 및 치료 효과가 감약될 수 있다.
+기전 : 테트라사이클린계 약물의 정균 작용이 페니실린계 약물의 살균작용을 방해할 수 있다.
+처치 : 두 약물의 병용투여는 피하는 것이 바람직하다.
+
+Digoxin	Doxycycline Hyclate Hydrate	Digitalis Glycosides(Digoxin)/Tetracyclines
+임상효과 : 두 약물의 병용투여시 10% 정도의 소수 환자들에게서 혈청 디곡신의 농도가 증가하여 디곡신 독성이 나타날 수 있다.
+기전 : 약 10%정도의 환자에게서 많은 양의 디곡신이 소화관에서 세균에 의해 불활성 대사체인 DRPs(digoxin reduction products)로 대사된다. 테트라사이클린은 소화관 세균총을 변화시켜 이 과정을 역으로 만들며, 이로 인해 더 많은 디곡신이 흡수되고 따라서 이 약의 혈청농도 및 작용이 증가할 수 있다.
+처치 : 두 약물의 병용투여시에는 디곡신의 농도가 상승하는지와 디곡신 독성이 나타나는지를 주의깊게 모니터링해야 한다. 필요시 디곡신의 용량을 감량해야 하며, 캡슐제형은 생체이용률이 증가됨으로써 DRPs의 생성을 최소화할 수 있다.
+
+Diphylline	Doxycycline Hyclate Hydrate	Theophyllines/Tetracyclines
+임상효과 : 두 약물의 병용투여시 테오필린계 약물(테오필린 등)에 대한 부작용의 발현 위험이 증가할 수 있다.
+기전 : 정확한 상호작용 기전은 밝혀지지 않았다.
+처치 : 테오필린계 약물을 투여 중인 환자에게 테트라사이클린계 약물의 투여를 시작하거나 중단할 때에는 테오필린계 약물의 혈중 농도를 주의깊게 모니터링 해야 하고, 필요시 약물의 용량을 조절한다.
+
+Doxycycline Hyclate Hydrate	Aluminum Hydroxide	Tetracyclines/Aluminum Salts
+임상효과 : 두 약물의 병용투여시 테트라사이클린(Tetracycline)의 혈청 농도가 감소하여 이 약물의 항감염 작용이 감약될 수 있다.
+기전 : 두 약물의 병용투여시 테트라사이클린계 항생제는 알루미늄염과 불용성 킬레이트를 형성하여 그 흡수가 감소될 수 있다.
+처치 : 두 약물의 동시 복용은 피하는 것이 바람직하다. 이 제제들의 복용은 3-4시간 간격을 두고 이뤄져야 한다.
+
+Doxycycline Hyclate Hydrate	Bendroflumethiazide	Tetracyclines/Diuretics
+임상효과 : 두 약물의 병용투여시 SUN(Serum Urea Nitrogen)이 심각하게 증가하여 요독증이 발생할 수 있다.
+기전 : 정확한 상호작용 기전은 밝혀지지 않았으나, 테트라사이클린계 항생제 단독으로도 SUN의 증가를 초래할 수 있다.
+처치 : 두 약물의 병용투여시 특별한 임상적 간섭은 필요하지 않다. 만약 SUN의 농도가 기능장애를 일으키기 시작한다면 두 제제 모두나 한 제제의 복용을 중단해야 한다.
+
+Doxycycline Hyclate Hydrate	Bismuth Subgallate	Tetracyclines/Bismuth Salts
+임상효과 : 액상의 비스무스염 제제를 병용하는 것은 테트라사이클린계 항생제의 혈청 농도를 감소시켜 항생제에 대한 환자의 치료반응을 감소시킬 수 있다.
+기전 : 두 약물의 병용투여시 테트라사이클린계 항생제는 비스무스염 제제 대부분의 액체 형태에 존재하는 서스펜션화제(Ma-Al silicate)에 흡착되어 그 흡수가 감소될 수 있다.
+처치 : 비스무스염 제제는 테트라사이클린계 항생제 복용 2시간 후에 투여한다.
+
+Doxycycline Hyclate Hydrate	Bismuth Subsalicylate	Tetracyclines/Bismuth Salts
+임상효과 : 액상의 비스무스염 제제를 병용하는 것은 테트라사이클린계 항생제의 혈청 농도를 감소시켜 항생제에 대한 환자의 치료반응을 감소시킬 수 있다.
+기전 : 두 약물의 병용투여시 테트라사이클린계 항생제는 비스무스염 제제 대부분의 액체 형태에 존재하는 서스펜션화제(Ma-Al silicate)에 흡착되어 그 흡수가 감소될 수 있다.
+처치 : 비스무스염 제제는 테트라사이클린계 항생제 복용 2시간 후에 투여한다.
+
+Doxycycline Hyclate Hydrate	Bumetanide	Tetracyclines/Diuretics
+임상효과 : 두 약물의 병용투여시 SUN(Serum Urea Nitrogen)이 심각하게 증가하여 요독증이 발생할 수 있다.
+기전 : 정확한 상호작용 기전은 밝혀지지 않았으나, 테트라사이클린계 항생제 단독으로도 SUN의 증가를 초래할 수 있다.
+처치 : 두 약물의 병용투여시 특별한 임상적 간섭은 필요하지 않다. 만약 SUN의 농도가 기능장애를 일으키기 시작한다면 두 제제 모두나 한 제제의 복용을 중단해야 한다.
+
+Doxycycline Hyclate Hydrate	Carbamazepine	Tetracyclines/Anticonvulsants(Carbamazepine)
+임상효과 : 두 약물의 병용투여시 테트라사이클린계 약물의 반감기와 혈청농도가 감소하여 이 약물의 치료 효과가 감약될 수 있다.
+기전 : 카르바마제핀은 테트라사이클린계 약물의 간 대사를 증가시키며, 이로 인해 이 약물의 혈중농도 및 작용이 감소될 수 있다.
+처치 : 두 약물의 병용기간 동안에는 테트라사이클린계 약물의 용량을 증량시켜야 하며, 이러한 상호작용을 일으키지 않는 대체 테트라사이클린계 약물의 사용 또한 고려해 볼 수 있다.
+
+Doxycycline Hyclate Hydrate	Chlorothiazide	Tetracyclines/Diuretics
+임상효과 : 두 약물의 병용투여시 SUN(Serum Urea Nitrogen)이 심각하게 증가하여 요독증이 발생할 수 있다.
+기전 : 정확한 상호작용 기전은 밝혀지지 않았으나, 테트라사이클린계 항생제 단독으로도 SUN의 증가를 초래할 수 있다.
+처치 : 두 약물의 병용투여시 특별한 임상적 간섭은 필요하지 않다. 만약 SUN의 농도가 기능장애를 일으키기 시작한다면 두 제제 모두나 한 제제의 복용을 중단해야 한다.
+
+Doxycycline Hyclate Hydrate	Chlorothiazide Sodium	Tetracyclines/Diuretics
+임상효과 : 두 약물의 병용투여시 SUN(Serum Urea Nitrogen)이 심각하게 증가하여 요독증이 발생할 수 있다.
+기전 : 정확한 상호작용 기전은 밝혀지지 않았으나, 테트라사이클린계 항생제 단독으로도 SUN의 증가를 초래할 수 있다.
+처치 : 두 약물의 병용투여시 특별한 임상적 간섭은 필요하지 않다. 만약 SUN의 농도가 기능장애를 일으키기 시작한다면 두 제제 모두나 한 제제의 복용을 중단해야 한다.
+
+Doxycycline Hyclate Hydrate	Chlorthalidone	Tetracyclines/Diuretics
+임상효과 : 두 약물의 병용투여시 SUN(Serum Urea Nitrogen)이 심각하게 증가하여 요독증이 발생할 수 있다.
+기전 : 정확한 상호작용 기전은 밝혀지지 않았으나, 테트라사이클린계 항생제 단독으로도 SUN의 증가를 초래할 수 있다.
+처치 : 두 약물의 병용투여시 특별한 임상적 간섭은 필요하지 않다. 만약 SUN의 농도가 기능장애를 일으키기 시작한다면 두 제제 모두나 한 제제의 복용을 중단해야 한다.
+
+Doxycycline Hyclate Hydrate	Cimetidine	Tetracyclines/Histamine H₂ Antagonists(Cimetidine)
+임상효과 : 두 약물의 병용투여시 시메티딘은 테트라사이클린(Tetracycline)의 흡수를 감소시킬 수 있다. 하지만, 문서들간의 상충되는 의견이 있는 상황이며, 임상적으로 중요한 상호작용으로는 보이지 않는다.
+기전 : 정확한 상호작용 기전은 밝혀지지 않았으나, 감소한 위장의 산도가 한 역할을 할 것으로 예상된다.
+처치 : 두 약물의 병용투여시 일상적인 모니터링 이외에 특별한 임상적 간섭은 필요하지 않다. 만약 약물의 효과가 예상보다 감소한다면, 테트라사이클린(Tetracycline)의 용량을 증가시켜야 한다.
+
+Doxycycline Hyclate Hydrate	Cimetidine Hydrochloride	Tetracyclines/Histamine H₂ Antagonists(Cimetidine)
+임상효과 : 두 약물의 병용투여시 시메티딘은 테트라사이클린(Tetracycline)의 흡수를 감소시킬 수 있다. 하지만, 문서들간의 상충되는 의견이 있는 상황이며, 임상적으로 중요한 상호작용으로는 보이지 않는다.
+기전 : 정확한 상호작용 기전은 밝혀지지 않았으나, 감소한 위장의 산도가 한 역할을 할 것으로 예상된다.
+처치 : 두 약물의 병용투여시 일상적인 모니터링 이외에 특별한 임상적 간섭은 필요하지 않다. 만약 약물의 효과가 예상보다 감소한다면, 테트라사이클린(Tetracycline)의 용량을 증가시켜야 한다.
+
+Doxycycline Hyclate Hydrate	Colestipol Hydrochloride	Tetracyclines/Bile Acid Sequestrants(Colestipol)
+임상효과 : 두 약물의 병용투여시 테트라사이클린계 항생제의 혈청 농도가 감소하여 항생제에 대한 환자의 치료 반응이 감소될 수 있다.
+기전 : 두 약물의 병용투여시 콜레스티폴이 테트라사이클린계 항생제의 흡수를 감소시키는 것으로 보인다.
+처치 : 두 약물의 병용투여시 특별한 주의사항은 필요하지 않다. 다만, 주기적으로 환자의 임상적 반응을 관찰하고 필요시 테트라사이클린계 항생제의 용량을 조절한다.
+
+Doxycycline Hyclate Hydrate	Dried Ferrous Sulfate	Tetracyclines/Iron Salts
+임상효과 : 두 약물의 병용투여시 테트라사이클린계 약물의 흡수 및 혈청 농도가 감소하여 이 약물의 항감염 작용이 감소할 수 있다. 철분제의 흡수 또한 감소할 수 있다.
+기전 : 두 약물의 병용투여시 테트라사이클린계 항생제는 알루미늄염과 불용성 킬레이트를 형성하여 그 흡수율 및 혈청 농도가 감소될 수 있다.
+처치 : 두 약물의 동시 복용은 피하는 것이 바람직하다. 이 제제들을 함께 복용시 이러한 상호작용을 최소화하기 위해서는 3-4시간 이상 간격을 두고 투여하거나 장용정 또는 서방정 철분제를 사용해야 한다.
+
+Doxycycline Hyclate Hydrate	Etacrynic Acid	Tetracyclines/Diuretics
+임상효과 : 두 약물의 병용투여시 SUN(Serum Urea Nitrogen)이 심각하게 증가하여 요독증이 발생할 수 있다.
+기전 : 정확한 상호작용 기전은 밝혀지지 않았으나, 테트라사이클린계 항생제 단독으로도 SUN의 증가를 초래할 수 있다.
+처치 : 두 약물의 병용투여시 특별한 임상적 간섭은 필요하지 않다. 만약 SUN의 농도가 기능장애를 일으키기 시작한다면 두 제제 모두나 한 제제의 복용을 중단해야 한다.
+
+Doxycycline Hyclate Hydrate	Ethanol	Tetracyclines/Ethanol
+임상효과 : 만성적인 알코올의 섭취는 독시사이클린(Doxycycline)의 청소율을 증가시킬 수 있으며, 급속한 알코올의 섭취는 테트라사이클린(Tetracycline)의 흡수를 증가시킬 수 있다.
+기전 : 지속적인 알코올의 섭취는 약물의 간 청소율을 증가시킬 수 있으며, 급속한 알코올의 섭취는 위 배출시간을 지연시켜 테트라사이클린(Tetracycline)의 용해를 증가시키고 이어서 장에서의 흡수를 증가시킬 수 있다.
+처치 : 두 약물의 병용투여시에는 관찰을 충분히 하고, 신중히 투여해야 한다. 독시사이클린(Doxycycline)의 용량을 증가시키는 것이 필요할 수 있다. 특히, 간 대사를 유도하는 약물을 복용중인 환자에게는 이러한 조치가 더욱 필요하다. 테트라사이클린(Tetracycline)과 알코올을 함께 복용 중인 환자에게는 특별한 주의사항이 필요하지 않다.
+
+Doxycycline Hyclate Hydrate	Ethotoin	Tetracyclines/Hydantoins
+임상효과 : 두 약물의 병용투여시 테트라사이클린계 약물의 반감기가 감소할 수 있다.
+기전 : 페니토인은 간 미소체 효소(hepatic microsomal enzymes)를 자극하여 테트라사이클린계 약물의 대사를 증가시킬 수 있다. 혈장 단백으로부터 독시사이클린(Doxycycline)의 해리 또한 이러한 상호작용에 기여할 수 있다.
+처치 : 두 약물의 병용투여시에는 관찰을 충분히 하고 신중히 투여해야 하며, 환자의 임상적 반응을 자세히 모니터링해야 한다. 몇몇 조사자들은 적당한 혈청농도를 유지하기 위해 독시사이클린(Doxycycline)의 용량을 매일 배가시킬것을 추천하였다.
+
+Doxycycline Hyclate Hydrate	Ferrous Fumarate	Tetracyclines/Iron Salts
+임상효과 : 두 약물의 병용투여시 테트라사이클린계 약물의 흡수 및 혈청 농도가 감소하여 이 약물의 항감염 작용이 감소할 수 있다. 철분제의 흡수 또한 감소할 수 있다.
+기전 : 두 약물의 병용투여시 테트라사이클린계 항생제는 알루미늄염과 불용성 킬레이트를 형성하여 그 흡수율 및 혈청 농도가 감소될 수 있다.
+처치 : 두 약물의 동시 복용은 피하는 것이 바람직하다. 이 제제들을 함께 복용시 이러한 상호작용을 최소화하기 위해서는 3-4시간 이상 간격을 두고 투여하거나 장용정 또는 서방정 철분제를 사용해야 한다.
+
+Doxycycline Hyclate Hydrate	Ferrous Gluconate Hydrate	Tetracyclines/Iron Salts
+임상효과 : 두 약물의 병용투여시 테트라사이클린계 약물의 흡수 및 혈청 농도가 감소하여 이 약물의 항감염 작용이 감소할 수 있다. 철분제의 흡수 또한 감소할 수 있다.
+기전 : 두 약물의 병용투여시 테트라사이클린계 항생제는 알루미늄염과 불용성 킬레이트를 형성하여 그 흡수율 및 혈청 농도가 감소될 수 있다.
+처치 : 두 약물의 동시 복용은 피하는 것이 바람직하다. 이 제제들을 함께 복용시 이러한 상호작용을 최소화하기 위해서는 3-4시간 이상 간격을 두고 투여하거나 장용정 또는 서방정 철분제를 사용해야 한다.
+
+Doxycycline Hyclate Hydrate	Ferrous Sulfate Hydrate	Tetracyclines/Iron Salts
+임상효과 : 두 약물의 병용투여시 테트라사이클린계 약물의 흡수 및 혈청 농도가 감소하여 이 약물의 항감염 작용이 감소할 수 있다. 철분제의 흡수 또한 감소할 수 있다.
+기전 : 두 약물의 병용투여시 테트라사이클린계 항생제는 알루미늄염과 불용성 킬레이트를 형성하여 그 흡수율 및 혈청 농도가 감소될 수 있다.
+처치 : 두 약물의 동시 복용은 피하는 것이 바람직하다. 이 제제들을 함께 복용시 이러한 상호작용을 최소화하기 위해서는 3-4시간 이상 간격을 두고 투여하거나 장용정 또는 서방정 철분제를 사용해야 한다.
+
+Doxycycline Hyclate Hydrate	Fosphenytoin Sodium	Tetracyclines/Hydantoins
+임상효과 : 두 약물의 병용투여시 테트라사이클린계 약물의 반감기가 감소할 수 있다.
+기전 : 페니토인은 간 미소체 효소(hepatic microsomal enzymes)를 자극하여 테트라사이클린계 약물의 대사를 증가시킬 수 있다. 혈장 단백으로부터 독시사이클린(Doxycycline)의 해리 또한 이러한 상호작용에 기여할 수 있다.
+처치 : 두 약물의 병용투여시에는 관찰을 충분히 하고 신중히 투여해야 하며, 환자의 임상적 반응을 자세히 모니터링해야 한다. 몇몇 조사자들은 적당한 혈청농도를 유지하기 위해 독시사이클린(Doxycycline)의 용량을 매일 배가시킬것을 추천하였다.
+
+Doxycycline Hyclate Hydrate	Furosemide	Tetracyclines/Diuretics
+임상효과 : 두 약물의 병용투여시 SUN(Serum Urea Nitrogen)이 심각하게 증가하여 요독증이 발생할 수 있다.
+기전 : 정확한 상호작용 기전은 밝혀지지 않았으나, 테트라사이클린계 항생제 단독으로도 SUN의 증가를 초래할 수 있다.
+처치 : 두 약물의 병용투여시 특별한 임상적 간섭은 필요하지 않다. 만약 SUN의 농도가 기능장애를 일으키기 시작한다면 두 제제 모두나 한 제제의 복용을 중단해야 한다.
+
+Doxycycline Hyclate Hydrate	Hydrochlorothiazide	Tetracyclines/Diuretics
+임상효과 : 두 약물의 병용투여시 SUN(Serum Urea Nitrogen)이 심각하게 증가하여 요독증이 발생할 수 있다.
+기전 : 정확한 상호작용 기전은 밝혀지지 않았으나, 테트라사이클린계 항생제 단독으로도 SUN의 증가를 초래할 수 있다.
+처치 : 두 약물의 병용투여시 특별한 임상적 간섭은 필요하지 않다. 만약 SUN의 농도가 기능장애를 일으키기 시작한다면 두 제제 모두나 한 제제의 복용을 중단해야 한다.
+
+Doxycycline Hyclate Hydrate	Indapamide	Tetracyclines/Diuretics
+임상효과 : 두 약물의 병용투여시 SUN(Serum Urea Nitrogen)이 심각하게 증가하여 요독증이 발생할 수 있다.
+기전 : 정확한 상호작용 기전은 밝혀지지 않았으나, 테트라사이클린계 항생제 단독으로도 SUN의 증가를 초래할 수 있다.
+처치 : 두 약물의 병용투여시 특별한 임상적 간섭은 필요하지 않다. 만약 SUN의 농도가 기능장애를 일으키기 시작한다면 두 제제 모두나 한 제제의 복용을 중단해야 한다.
+
+Doxycycline Hyclate Hydrate	Magaldrate	Tetracyclines/Magnesium Salts
+임상효과 : 두 약물의 병용투여시 테트라사이클린(Tetracycline)의 흡수 및 혈청 농도가 감소하여 이 약물의 항감염 작용이 감약될 수 있다.
+기전 : 두 약물의 병용투여시 테트라사이클린계 항생제는 마그네슘염과 불용성 킬레이트를 형성하여 그 흡수율 및 혈청 농도가 감소될 수 있다.
+처치 : 두 약물의 동시 복용은 피하는 것이 바람직하다. 이 제제들의 복용은 3-4시간 간격을 두고 이뤄져야 한다.
+
+Doxycycline Hyclate Hydrate	Magnesium Carbonate	Tetracyclines/Magnesium Salts
+임상효과 : 두 약물의 병용투여시 테트라사이클린(Tetracycline)의 흡수 및 혈청 농도가 감소하여 이 약물의 항감염 작용이 감약될 수 있다.
+기전 : 두 약물의 병용투여시 테트라사이클린계 항생제는 마그네슘염과 불용성 킬레이트를 형성하여 그 흡수율 및 혈청 농도가 감소될 수 있다.
+처치 : 두 약물의 동시 복용은 피하는 것이 바람직하다. 이 제제들의 복용은 3-4시간 간격을 두고 이뤄져야 한다.
+
+Doxycycline Hyclate Hydrate	Magnesium Citrate	Tetracyclines/Magnesium Salts
+임상효과 : 두 약물의 병용투여시 테트라사이클린(Tetracycline)의 흡수 및 혈청 농도가 감소하여 이 약물의 항감염 작용이 감약될 수 있다.
+기전 : 두 약물의 병용투여시 테트라사이클린계 항생제는 마그네슘염과 불용성 킬레이트를 형성하여 그 흡수율 및 혈청 농도가 감소될 수 있다.
+처치 : 두 약물의 동시 복용은 피하는 것이 바람직하다. 이 제제들의 복용은 3-4시간 간격을 두고 이뤄져야 한다.
+
+Doxycycline Hyclate Hydrate	Magnesium Gluconate Hydrate	Tetracyclines/Magnesium Salts
+임상효과 : 두 약물의 병용투여시 테트라사이클린(Tetracycline)의 흡수 및 혈청 농도가 감소하여 이 약물의 항감염 작용이 감약될 수 있다.
+기전 : 두 약물의 병용투여시 테트라사이클린계 항생제는 마그네슘염과 불용성 킬레이트를 형성하여 그 흡수율 및 혈청 농도가 감소될 수 있다.
+처치 : 두 약물의 동시 복용은 피하는 것이 바람직하다. 이 제제들의 복용은 3-4시간 간격을 두고 이뤄져야 한다.
+
+Doxycycline Hyclate Hydrate	Magnesium Hydroxide	Tetracyclines/Magnesium Salts
+임상효과 : 두 약물의 병용투여시 테트라사이클린(Tetracycline)의 흡수 및 혈청 농도가 감소하여 이 약물의 항감염 작용이 감약될 수 있다.
+기전 : 두 약물의 병용투여시 테트라사이클린계 항생제는 마그네슘염과 불용성 킬레이트를 형성하여 그 흡수율 및 혈청 농도가 감소될 수 있다.
+처치 : 두 약물의 동시 복용은 피하는 것이 바람직하다. 이 제제들의 복용은 3-4시간 간격을 두고 이뤄져야 한다.
+
+Doxycycline Hyclate Hydrate	Magnesium Oxide	Tetracyclines/Magnesium Salts
+임상효과 : 두 약물의 병용투여시 테트라사이클린(Tetracycline)의 흡수 및 혈청 농도가 감소하여 이 약물의 항감염 작용이 감약될 수 있다.
+기전 : 두 약물의 병용투여시 테트라사이클린계 항생제는 마그네슘염과 불용성 킬레이트를 형성하여 그 흡수율 및 혈청 농도가 감소될 수 있다.
+처치 : 두 약물의 동시 복용은 피하는 것이 바람직하다. 이 제제들의 복용은 3-4시간 간격을 두고 이뤄져야 한다.
+
+Doxycycline Hyclate Hydrate	Magnesium Sulfate Dihydrate	Tetracyclines/Magnesium Salts
+임상효과 : 두 약물의 병용투여시 테트라사이클린(Tetracycline)의 흡수 및 혈청 농도가 감소하여 이 약물의 항감염 작용이 감약될 수 있다.
+기전 : 두 약물의 병용투여시 테트라사이클린계 항생제는 마그네슘염과 불용성 킬레이트를 형성하여 그 흡수율 및 혈청 농도가 감소될 수 있다.
+처치 : 두 약물의 동시 복용은 피하는 것이 바람직하다. 이 제제들의 복용은 3-4시간 간격을 두고 이뤄져야 한다.
+
+Doxycycline Hyclate Hydrate	Magnesium Sulfate Hydrate	Tetracyclines/Magnesium Salts
+임상효과 : 두 약물의 병용투여시 테트라사이클린(Tetracycline)의 흡수 및 혈청 농도가 감소하여 이 약물의 항감염 작용이 감약될 수 있다.
+기전 : 두 약물의 병용투여시 테트라사이클린계 항생제는 마그네슘염과 불용성 킬레이트를 형성하여 그 흡수율 및 혈청 농도가 감소될 수 있다.
+처치 : 두 약물의 동시 복용은 피하는 것이 바람직하다. 이 제제들의 복용은 3-4시간 간격을 두고 이뤄져야 한다.
+
+Doxycycline Hyclate Hydrate	Methyclothiazide	Tetracyclines/Diuretics
+임상효과 : 두 약물의 병용투여시 SUN(Serum Urea Nitrogen)이 심각하게 증가하여 요독증이 발생할 수 있다.
+기전 : 정확한 상호작용 기전은 밝혀지지 않았으나, 테트라사이클린계 항생제 단독으로도 SUN의 증가를 초래할 수 있다.
+처치 : 두 약물의 병용투여시 특별한 임상적 간섭은 필요하지 않다. 만약 SUN의 농도가 기능장애를 일으키기 시작한다면 두 제제 모두나 한 제제의 복용을 중단해야 한다.
+
+Doxycycline Hyclate Hydrate	Metolazone	Tetracyclines/Diuretics
+임상효과 : 두 약물의 병용투여시 SUN(Serum Urea Nitrogen)이 심각하게 증가하여 요독증이 발생할 수 있다.
+기전 : 정확한 상호작용 기전은 밝혀지지 않았으나, 테트라사이클린계 항생제 단독으로도 SUN의 증가를 초래할 수 있다.
+처치 : 두 약물의 병용투여시 특별한 임상적 간섭은 필요하지 않다. 만약 SUN의 농도가 기능장애를 일으키기 시작한다면 두 제제 모두나 한 제제의 복용을 중단해야 한다.
+
+Doxycycline Hyclate Hydrate	Pentobarbital	Tetracyclines/Barbiturates
+임상효과 : 두 약물의 병용투여시 테트라사이클린계 약물의 반감기와 혈청농도가 감소하여 이 약물의 치료 효과가 감약될 수 있다. 이러한 효과는 바비튜레이트계 약물의 복용을 중단한 이후 수 주간 지속될 수 있다.
+기전 : 바비튜레이트계 약물은 미소체 효소(microsomal enzymes)를 자극하여 테트라사이클린계 약물의 간 대사를 증가시키며, 이로 인해 이 약물의 혈중농도 및 작용이 감소될 수 있다.
+처치 : 두 약물의 병용기간 동안에는 테트라사이클린계 약물의 용량을 증량시켜야 하며, 이러한 상호작용을 일으키지 않는 대체 테트라사이클린계 약물의 사용 또한 고려해 볼 수 있다.
+
+Doxycycline Hyclate Hydrate	Pentobarbital Calcium	Tetracyclines/Barbiturates
+임상효과 : 두 약물의 병용투여시 테트라사이클린계 약물의 반감기와 혈청농도가 감소하여 이 약물의 치료 효과가 감약될 수 있다. 이러한 효과는 바비튜레이트계 약물의 복용을 중단한 이후 수 주간 지속될 수 있다.
+기전 : 바비튜레이트계 약물은 미소체 효소(microsomal enzymes)를 자극하여 테트라사이클린계 약물의 간 대사를 증가시키며, 이로 인해 이 약물의 혈중농도 및 작용이 감소될 수 있다.
+처치 : 두 약물의 병용기간 동안에는 테트라사이클린계 약물의 용량을 증량시켜야 하며, 이러한 상호작용을 일으키지 않는 대체 테트라사이클린계 약물의 사용 또한 고려해 볼 수 있다.
+
+Doxycycline Hyclate Hydrate	Pentobarbital Sodium	Tetracyclines/Barbiturates
+임상효과 : 두 약물의 병용투여시 테트라사이클린계 약물의 반감기와 혈청농도가 감소하여 이 약물의 치료 효과가 감약될 수 있다. 이러한 효과는 바비튜레이트계 약물의 복용을 중단한 이후 수 주간 지속될 수 있다.
+기전 : 바비튜레이트계 약물은 미소체 효소(microsomal enzymes)를 자극하여 테트라사이클린계 약물의 간 대사를 증가시키며, 이로 인해 이 약물의 혈중농도 및 작용이 감소될 수 있다.
+처치 : 두 약물의 병용기간 동안에는 테트라사이클린계 약물의 용량을 증량시켜야 하며, 이러한 상호작용을 일으키지 않는 대체 테트라사이클린계 약물의 사용 또한 고려해 볼 수 있다.
+
+Doxycycline Hyclate Hydrate	Phenobarbital	Tetracyclines/Barbiturates
+임상효과 : 두 약물의 병용투여시 테트라사이클린계 약물의 반감기와 혈청농도가 감소하여 이 약물의 치료 효과가 감약될 수 있다. 이러한 효과는 바비튜레이트계 약물의 복용을 중단한 이후 수 주간 지속될 수 있다.
+기전 : 바비튜레이트계 약물은 미소체 효소(microsomal enzymes)를 자극하여 테트라사이클린계 약물의 간 대사를 증가시키며, 이로 인해 이 약물의 혈중농도 및 작용이 감소될 수 있다.
+처치 : 두 약물의 병용기간 동안에는 테트라사이클린계 약물의 용량을 증량시켜야 하며, 이러한 상호작용을 일으키지 않는 대체 테트라사이클린계 약물의 사용 또한 고려해 볼 수 있다.
+
+Doxycycline Hyclate Hydrate	Phenobarbital Sodium	Tetracyclines/Barbiturates
+임상효과 : 두 약물의 병용투여시 테트라사이클린계 약물의 반감기와 혈청농도가 감소하여 이 약물의 치료 효과가 감약될 수 있다. 이러한 효과는 바비튜레이트계 약물의 복용을 중단한 이후 수 주간 지속될 수 있다.
+기전 : 바비튜레이트계 약물은 미소체 효소(microsomal enzymes)를 자극하여 테트라사이클린계 약물의 간 대사를 증가시키며, 이로 인해 이 약물의 혈중농도 및 작용이 감소될 수 있다.
+처치 : 두 약물의 병용기간 동안에는 테트라사이클린계 약물의 용량을 증량시켜야 하며, 이러한 상호작용을 일으키지 않는 대체 테트라사이클린계 약물의 사용 또한 고려해 볼 수 있다.
+
+Doxycycline Hyclate Hydrate	Phenytoin	Tetracyclines/Hydantoins
+임상효과 : 두 약물의 병용투여시 테트라사이클린계 약물의 반감기가 감소할 수 있다.
+기전 : 페니토인은 간 미소체 효소(hepatic microsomal enzymes)를 자극하여 테트라사이클린계 약물의 대사를 증가시킬 수 있다. 혈장 단백으로부터 독시사이클린(Doxycycline)의 해리 또한 이러한 상호작용에 기여할 수 있다.
+처치 : 두 약물의 병용투여시에는 관찰을 충분히 하고 신중히 투여해야 하며, 환자의 임상적 반응을 자세히 모니터링해야 한다. 몇몇 조사자들은 적당한 혈청농도를 유지하기 위해 독시사이클린(Doxycycline)의 용량을 매일 배가시킬것을 추천하였다.
+
+Doxycycline Hyclate Hydrate	Phenytoin Sodium	Tetracyclines/Hydantoins
+임상효과 : 두 약물의 병용투여시 테트라사이클린계 약물의 반감기가 감소할 수 있다.
+기전 : 페니토인은 간 미소체 효소(hepatic microsomal enzymes)를 자극하여 테트라사이클린계 약물의 대사를 증가시킬 수 있다. 혈장 단백으로부터 독시사이클린(Doxycycline)의 해리 또한 이러한 상호작용에 기여할 수 있다.
+처치 : 두 약물의 병용투여시에는 관찰을 충분히 하고 신중히 투여해야 하며, 환자의 임상적 반응을 자세히 모니터링해야 한다. 몇몇 조사자들은 적당한 혈청농도를 유지하기 위해 독시사이클린(Doxycycline)의 용량을 매일 배가시킬것을 추천하였다.
+
+Doxycycline Hyclate Hydrate	Potassium Citrate Hydrate	Tetracyclines/Urinary Alkalinizers
+임상효과 : 두 약물의 병용투여시 테트라사이클린계 약물의 배설이 증가되어 약물의 혈청 농도 및 치료 효과가 감소할 수 있다. 이러한 의견과 반대되는 다른 보고들도 있다.
+기전 : 두 약물의 병용투여시 뇨 알칼리화제에 의한 염기성 뇨 때문에 테트라사이클린계 약물의 세뇨관 재흡수가 영향을 받을 수 있으며, 위의 pH가 증가되어 테트라사이클린계 약물의 흡수가 감소될 수 있다. 이것은 낮은 생체 이용률을 가지는 제형들에서 중요한 문제가 될 수 있다.
+처치 : 두 제제를 함께 사용할 때에는 최소 3-4시간의 복용 간격을 둔다. 하지만, 만약 뇨 알칼리화제에 의해 뇨의 pH가 증가한다면, 테트라사이클린(Tetracycline)의 용량을 증가시킬 필요가 있을 수도 있다.
+
+Doxycycline Hyclate Hydrate	Primidone	Tetracyclines/Barbiturates
+임상효과 : 두 약물의 병용투여시 테트라사이클린계 약물의 반감기와 혈청농도가 감소하여 이 약물의 치료 효과가 감약될 수 있다. 이러한 효과는 바비튜레이트계 약물의 복용을 중단한 이후 수 주간 지속될 수 있다.
+기전 : 바비튜레이트계 약물은 미소체 효소(microsomal enzymes)를 자극하여 테트라사이클린계 약물의 간 대사를 증가시키며, 이로 인해 이 약물의 혈중농도 및 작용이 감소될 수 있다.
+처치 : 두 약물의 병용기간 동안에는 테트라사이클린계 약물의 용량을 증량시켜야 하며, 이러한 상호작용을 일으키지 않는 대체 테트라사이클린계 약물의 사용 또한 고려해 볼 수 있다.
+
+Doxycycline Hyclate Hydrate	Rifabutin	Tetracyclines/Rifamycins
+임상효과 : 두 약물의 병용투여시 테트라사이클린계 약물의 반감기와 혈청농도가 감소하여 이 약물의 치료 효과가 감약될 수 있다.
+기전 : 리파마이신계 약물은 테트라사이클린계 약물의 간 대사를 증가시키며, 이로 인해 이 약물의 혈중농도 및 작용이 감소될 수 있다.
+처치 : 두 약물의 병용투여시에는 관찰을 충분히 하고 신중히 투여해야 하며, 환자의 임상적 반응을 자세히 모니터링해야 한다. 필요하다면 약물의 용량을 증가시켜야 한다. 참고로, 스트렙토마이신(Streptomycin)은 독시사이클린(Doxycycline)의 농도를 감소시키지 않는것으로 나타났다.
+
+Doxycycline Hyclate Hydrate	Rifampicin	Tetracyclines/Rifamycins
+임상효과 : 두 약물의 병용투여시 테트라사이클린계 약물의 반감기와 혈청농도가 감소하여 이 약물의 치료 효과가 감약될 수 있다.
+기전 : 리파마이신계 약물은 테트라사이클린계 약물의 간 대사를 증가시키며, 이로 인해 이 약물의 혈중농도 및 작용이 감소될 수 있다.
+처치 : 두 약물의 병용투여시에는 관찰을 충분히 하고 신중히 투여해야 하며, 환자의 임상적 반응을 자세히 모니터링해야 한다. 필요하다면 약물의 용량을 증가시켜야 한다. 참고로, 스트렙토마이신(Streptomycin)은 독시사이클린(Doxycycline)의 농도를 감소시키지 않는것으로 나타났다.
+
+Doxycycline Hyclate Hydrate	Secobarbital	Tetracyclines/Barbiturates
+임상효과 : 두 약물의 병용투여시 테트라사이클린계 약물의 반감기와 혈청농도가 감소하여 이 약물의 치료 효과가 감약될 수 있다. 이러한 효과는 바비튜레이트계 약물의 복용을 중단한 이후 수 주간 지속될 수 있다.
+기전 : 바비튜레이트계 약물은 미소체 효소(microsomal enzymes)를 자극하여 테트라사이클린계 약물의 간 대사를 증가시키며, 이로 인해 이 약물의 혈중농도 및 작용이 감소될 수 있다.
+처치 : 두 약물의 병용기간 동안에는 테트라사이클린계 약물의 용량을 증량시켜야 하며, 이러한 상호작용을 일으키지 않는 대체 테트라사이클린계 약물의 사용 또한 고려해 볼 수 있다.
+
+Doxycycline Hyclate Hydrate	Secobarbital Sodium	Tetracyclines/Barbiturates
+임상효과 : 두 약물의 병용투여시 테트라사이클린계 약물의 반감기와 혈청농도가 감소하여 이 약물의 치료 효과가 감약될 수 있다. 이러한 효과는 바비튜레이트계 약물의 복용을 중단한 이후 수 주간 지속될 수 있다.
+기전 : 바비튜레이트계 약물은 미소체 효소(microsomal enzymes)를 자극하여 테트라사이클린계 약물의 간 대사를 증가시키며, 이로 인해 이 약물의 혈중농도 및 작용이 감소될 수 있다.
+처치 : 두 약물의 병용기간 동안에는 테트라사이클린계 약물의 용량을 증량시켜야 하며, 이러한 상호작용을 일으키지 않는 대체 테트라사이클린계 약물의 사용 또한 고려해 볼 수 있다.
+
+Doxycycline Hyclate Hydrate	Sodium Acetate Anhydrous	Tetracyclines/Urinary Alkalinizers
+임상효과 : 두 약물의 병용투여시 테트라사이클린계 약물의 배설이 증가되어 약물의 혈청 농도 및 치료 효과가 감소할 수 있다. 이러한 의견과 반대되는 다른 보고들도 있다.
+기전 : 두 약물의 병용투여시 뇨 알칼리화제에 의한 염기성 뇨 때문에 테트라사이클린계 약물의 세뇨관 재흡수가 영향을 받을 수 있으며, 위의 pH가 증가되어 테트라사이클린계 약물의 흡수가 감소될 수 있다. 이것은 낮은 생체 이용률을 가지는 제형들에서 중요한 문제가 될 수 있다.
+처치 : 두 제제를 함께 사용할 때에는 최소 3-4시간의 복용 간격을 둔다. 하지만, 만약 뇨 알칼리화제에 의해 뇨의 pH가 증가한다면, 테트라사이클린(Tetracycline)의 용량을 증가시킬 필요가 있을 수도 있다.
+
+Doxycycline Hyclate Hydrate	Sodium Acetate Hydrate	Tetracyclines/Urinary Alkalinizers
+임상효과 : 두 약물의 병용투여시 테트라사이클린계 약물의 배설이 증가되어 약물의 혈청 농도 및 치료 효과가 감소할 수 있다. 이러한 의견과 반대되는 다른 보고들도 있다.
+기전 : 두 약물의 병용투여시 뇨 알칼리화제에 의한 염기성 뇨 때문에 테트라사이클린계 약물의 세뇨관 재흡수가 영향을 받을 수 있으며, 위의 pH가 증가되어 테트라사이클린계 약물의 흡수가 감소될 수 있다. 이것은 낮은 생체 이용률을 가지는 제형들에서 중요한 문제가 될 수 있다.
+처치 : 두 제제를 함께 사용할 때에는 최소 3-4시간의 복용 간격을 둔다. 하지만, 만약 뇨 알칼리화제에 의해 뇨의 pH가 증가한다면, 테트라사이클린(Tetracycline)의 용량을 증가시킬 필요가 있을 수도 있다.
+
+Doxycycline Hyclate Hydrate	Sodium Bicarbonate	Tetracyclines/Urinary Alkalinizers
+임상효과 : 두 약물의 병용투여시 테트라사이클린계 약물의 배설이 증가되어 약물의 혈청 농도 및 치료 효과가 감소할 수 있다. 이러한 의견과 반대되는 다른 보고들도 있다.
+기전 : 두 약물의 병용투여시 뇨 알칼리화제에 의한 염기성 뇨 때문에 테트라사이클린계 약물의 세뇨관 재흡수가 영향을 받을 수 있으며, 위의 pH가 증가되어 테트라사이클린계 약물의 흡수가 감소될 수 있다. 이것은 낮은 생체 이용률을 가지는 제형들에서 중요한 문제가 될 수 있다.
+처치 : 두 제제를 함께 사용할 때에는 최소 3-4시간의 복용 간격을 둔다. 하지만, 만약 뇨 알칼리화제에 의해 뇨의 pH가 증가한다면, 테트라사이클린(Tetracycline)의 용량을 증가시킬 필요가 있을 수도 있다.
+
+Doxycycline Hyclate Hydrate	Sodium Citrate Anhydrous	Tetracyclines/Urinary Alkalinizers
+임상효과 : 두 약물의 병용투여시 테트라사이클린계 약물의 배설이 증가되어 약물의 혈청 농도 및 치료 효과가 감소할 수 있다. 이러한 의견과 반대되는 다른 보고들도 있다.
+기전 : 두 약물의 병용투여시 뇨 알칼리화제에 의한 염기성 뇨 때문에 테트라사이클린계 약물의 세뇨관 재흡수가 영향을 받을 수 있으며, 위의 pH가 증가되어 테트라사이클린계 약물의 흡수가 감소될 수 있다. 이것은 낮은 생체 이용률을 가지는 제형들에서 중요한 문제가 될 수 있다.
+처치 : 두 제제를 함께 사용할 때에는 최소 3-4시간의 복용 간격을 둔다. 하지만, 만약 뇨 알칼리화제에 의해 뇨의 pH가 증가한다면, 테트라사이클린(Tetracycline)의 용량을 증가시킬 필요가 있을 수도 있다.
+
+Doxycycline Hyclate Hydrate	Sodium Citrate Hydrate	Tetracyclines/Urinary Alkalinizers
+임상효과 : 두 약물의 병용투여시 테트라사이클린계 약물의 배설이 증가되어 약물의 혈청 농도 및 치료 효과가 감소할 수 있다. 이러한 의견과 반대되는 다른 보고들도 있다.
+기전 : 두 약물의 병용투여시 뇨 알칼리화제에 의한 염기성 뇨 때문에 테트라사이클린계 약물의 세뇨관 재흡수가 영향을 받을 수 있으며, 위의 pH가 증가되어 테트라사이클린계 약물의 흡수가 감소될 수 있다. 이것은 낮은 생체 이용률을 가지는 제형들에서 중요한 문제가 될 수 있다.
+처치 : 두 제제를 함께 사용할 때에는 최소 3-4시간의 복용 간격을 둔다. 하지만, 만약 뇨 알칼리화제에 의해 뇨의 pH가 증가한다면, 테트라사이클린(Tetracycline)의 용량을 증가시킬 필요가 있을 수도 있다.
+
+Doxycycline Hyclate Hydrate	Sodium Lactate	Tetracyclines/Urinary Alkalinizers
+임상효과 : 두 약물의 병용투여시 테트라사이클린계 약물의 배설이 증가되어 약물의 혈청 농도 및 치료 효과가 감소할 수 있다. 이러한 의견과 반대되는 다른 보고들도 있다.
+기전 : 두 약물의 병용투여시 뇨 알칼리화제에 의한 염기성 뇨 때문에 테트라사이클린계 약물의 세뇨관 재흡수가 영향을 받을 수 있으며, 위의 pH가 증가되어 테트라사이클린계 약물의 흡수가 감소될 수 있다. 이것은 낮은 생체 이용률을 가지는 제형들에서 중요한 문제가 될 수 있다.
+처치 : 두 제제를 함께 사용할 때에는 최소 3-4시간의 복용 간격을 둔다. 하지만, 만약 뇨 알칼리화제에 의해 뇨의 pH가 증가한다면, 테트라사이클린(Tetracycline)의 용량을 증가시킬 필요가 있을 수도 있다.
+
+Doxycycline Hyclate Hydrate	Tromethamine	Tetracyclines/Urinary Alkalinizers
+임상효과 : 두 약물의 병용투여시 테트라사이클린계 약물의 배설이 증가되어 약물의 혈청 농도 및 치료 효과가 감소할 수 있다. 이러한 의견과 반대되는 다른 보고들도 있다.
+기전 : 두 약물의 병용투여시 뇨 알칼리화제에 의한 염기성 뇨 때문에 테트라사이클린계 약물의 세뇨관 재흡수가 영향을 받을 수 있으며, 위의 pH가 증가되어 테트라사이클린계 약물의 흡수가 감소될 수 있다. 이것은 낮은 생체 이용률을 가지는 제형들에서 중요한 문제가 될 수 있다.
+처치 : 두 제제를 함께 사용할 때에는 최소 3-4시간의 복용 간격을 둔다. 하지만, 만약 뇨 알칼리화제에 의해 뇨의 pH가 증가한다면, 테트라사이클린(Tetracycline)의 용량을 증가시킬 필요가 있을 수도 있다.
+
+Ethinylestradiol	Doxycycline Hyclate Hydrate	Contraceptives, Hormonal/Tetracyclines
+임상효과 : 두 약물의 병용투여시 호르몬성 피임제의 효과가 감소하여 비생리기 자궁출혈이나 무월경, 원치않은 임신 등을 초래할 수 있다.
+기전 : 테트라사이클린계 약물은 경구용 피임제의 장간순환에 필수적인 가수분해 효소 제공 장내 세균들을 억제할 수 있다. 이로 인해 경구용 피임제의 혈장농도가 감소하여 이 약의 효과가 감약될 수 있다.
+처치 : 두 약물의 병용투여시 드물기는 하지만 피임이 실패할 수도 있다. 임신을 원하지 않는 여성은 페니실린계 약물의 치료기간 동안 추가적인 피임법을 사용해야 한다.
+
+Ethinylestradiol Betadex Clathrate	Doxycycline Hyclate Hydrate	Contraceptives, Hormonal/Tetracyclines
+임상효과 : 두 약물의 병용투여시 호르몬성 피임제의 효과가 감소하여 비생리기 자궁출혈이나 무월경, 원치않은 임신 등을 초래할 수 있다.
+기전 : 테트라사이클린계 약물은 경구용 피임제의 장간순환에 필수적인 가수분해 효소 제공 장내 세균들을 억제할 수 있다. 이로 인해 경구용 피임제의 혈장농도가 감소하여 이 약의 효과가 감약될 수 있다.
+처치 : 두 약물의 병용투여시 드물기는 하지만 피임이 실패할 수도 있다. 임신을 원하지 않는 여성은 페니실린계 약물의 치료기간 동안 추가적인 피임법을 사용해야 한다.
+
+Insulin	Doxycycline Hyclate Hydrate	Insulin/Tetracyclines
+임상효과 : 두 약물의 병용투여시 인슐린의 저혈당 효과가 상승될 수 있다.
+기전 : 두 약물의 병용에 의해 인슐린에 대한 췌장외성반응이 증가할 수 있다.
+처치 : 인슐린으로 치료중인 당뇨병 환자는 그 혈당 농도를 주의깊게 모니터링해야 하고, 저혈당을 피하기 위해 필요시 인슐린 요법을 조절해야 한다.
+
+Isotretinoin	Doxycycline Hyclate Hydrate	Retinoids/Tetracyclines
+임상효과 : 두 약물의 병용투여시 두개 내압이 상승하여 가성뇌종양(두개내 고혈압)을 유발할 수 있다.
+기전 : 정확한 상호작용기전은 밝혀지지 않았으나, 약물의 상가 또는 상승작용에 따른 부작용 발생으로 추정된다.
+처치 : 두 약물은 병용투여하지 않는다.
+
+Lithium Carbonate	Doxycycline Hyclate Hydrate	Antipsychotic Agents(Lithium)/Tetracyclines
+임상효과 : 두 약물의 병용투여시 리튬의 혈청농도가 상승하여 심독성 및 신경독성 등 리튬 독성의 위험이 증가될 수 있다.
+기전 : 정확한 상호작용 기전은 밝혀지지 않았다.
+처치 : 두 약물의 병용투여시 특별한 임상적 간섭은 필요하지 않다. 만약 상호작용이 예상된다면 리튬의 혈장농도를 주의깊게 모니터링해야 한다.
+
+Methicillin	Doxycycline Hyclate Hydrate	Penicillins/Tetracyclines
+임상효과 : 두 약물의 병용투여시 페니실린계 약물의 약리학적 효과 및 치료 효과가 감약될 수 있다.
+기전 : 테트라사이클린계 약물의 정균 작용이 페니실린계 약물의 살균작용을 방해할 수 있다.
+처치 : 두 약물의 병용투여는 피하는 것이 바람직하다.
+
+Methicillin Sodium Hydrate	Doxycycline Hyclate Hydrate	Penicillins/Tetracyclines
+임상효과 : 두 약물의 병용투여시 페니실린계 약물의 약리학적 효과 및 치료 효과가 감약될 수 있다.
+기전 : 테트라사이클린계 약물의 정균 작용이 페니실린계 약물의 살균작용을 방해할 수 있다.
+처치 : 두 약물의 병용투여는 피하는 것이 바람직하다.
+
+Methotrexate	Doxycycline Hyclate Hydrate	Methotrexate/Tetracyclines
+임상효과 : 두 약물의 병용투여시 메토트렉세이트의 농도가 상승하여 이 약물의 작용 및 이상반응(골수억제, 간?신장?소화관장애, 혈액장애 등)이 증강 또는 연장될 수 있다.
+기전 : 정확한 상호작용 기전은 밝혀지지 않았다.
+처치 : 만약 고용량의 메토트렉세이트를 복용중인 환자에게 독시사이클린(Doxycycline)의 복용을 피할수 없다면 메토트렉세이트의 혈장농도와 환자에게 독성의 증상이나 징후가 나타나는지 여부를 자세히 모니터링해야 한다.
+
+Methotrexate Sodium	Doxycycline Hyclate Hydrate	Methotrexate/Tetracyclines
+임상효과 : 두 약물의 병용투여시 메토트렉세이트의 농도가 상승하여 이 약물의 작용 및 이상반응(골수억제, 간?신장?소화관장애, 혈액장애 등)이 증강 또는 연장될 수 있다.
+기전 : 정확한 상호작용 기전은 밝혀지지 않았다.
+처치 : 만약 고용량의 메토트렉세이트를 복용중인 환자에게 독시사이클린(Doxycycline)의 복용을 피할수 없다면 메토트렉세이트의 혈장농도와 환자에게 독성의 증상이나 징후가 나타나는지 여부를 자세히 모니터링해야 한다.
+
+Methoxyflurane	Doxycycline Hyclate Hydrate	Methoxyflurane/Tetracyclines
+임상효과 : 두 약물의 병용투여시 신장 독성의 위험이 상승할 수 있다.
+기전 : 정확한 상호작용 기전은 밝혀지지 않았으나, 테트라사이클린-유도성 메톡시플루란의 생체 변환 유도와 독성 대사체의 신장 배설 손상이 관련되어 있을 것으로 추정된다.
+처치 : 두 약물은 병용투여하지 않는다. 가능하다면 대체제의 사용을 고려해야 한다.
+
+Mezlocillin	Doxycycline Hyclate Hydrate	Penicillins/Tetracyclines
+임상효과 : 두 약물의 병용투여시 페니실린계 약물의 약리학적 효과 및 치료 효과가 감약될 수 있다.
+기전 : 테트라사이클린계 약물의 정균 작용이 페니실린계 약물의 살균작용을 방해할 수 있다.
+처치 : 두 약물의 병용투여는 피하는 것이 바람직하다.
+
+Mezlocillin Sodium	Doxycycline Hyclate Hydrate	Penicillins/Tetracyclines
+임상효과 : 두 약물의 병용투여시 페니실린계 약물의 약리학적 효과 및 치료 효과가 감약될 수 있다.
+기전 : 테트라사이클린계 약물의 정균 작용이 페니실린계 약물의 살균작용을 방해할 수 있다.
+처치 : 두 약물의 병용투여는 피하는 것이 바람직하다.
+
+Nafcillin Sodium Hydrate	Doxycycline Hyclate Hydrate	Penicillins/Tetracyclines
+임상효과 : 두 약물의 병용투여시 페니실린계 약물의 약리학적 효과 및 치료 효과가 감약될 수 있다.
+기전 : 테트라사이클린계 약물의 정균 작용이 페니실린계 약물의 살균작용을 방해할 수 있다.
+처치 : 두 약물의 병용투여는 피하는 것이 바람직하다.
+
+Oxacillin Sodium Hydrate	Doxycycline Hyclate Hydrate	Penicillins/Tetracyclines
+임상효과 : 두 약물의 병용투여시 페니실린계 약물의 약리학적 효과 및 치료 효과가 감약될 수 있다.
+기전 : 테트라사이클린계 약물의 정균 작용이 페니실린계 약물의 살균작용을 방해할 수 있다.
+처치 : 두 약물의 병용투여는 피하는 것이 바람직하다.
+
+Oxtriphylline	Doxycycline Hyclate Hydrate	Theophyllines/Tetracyclines
+임상효과 : 두 약물의 병용투여시 테오필린계 약물(테오필린 등)에 대한 부작용의 발현 위험이 증가할 수 있다.
+기전 : 정확한 상호작용 기전은 밝혀지지 않았다.
+처치 : 테오필린계 약물을 투여 중인 환자에게 테트라사이클린계 약물의 투여를 시작하거나 중단할 때에는 테오필린계 약물의 혈중 농도를 주의깊게 모니터링 해야 하고, 필요시 약물의 용량을 조절한다.
+
+Penicillin G Potassium	Doxycycline Hyclate Hydrate	Penicillins/Tetracyclines
+임상효과 : 두 약물의 병용투여시 페니실린계 약물의 약리학적 효과 및 치료 효과가 감약될 수 있다.
+기전 : 테트라사이클린계 약물의 정균 작용이 페니실린계 약물의 살균작용을 방해할 수 있다.
+처치 : 두 약물의 병용투여는 피하는 것이 바람직하다.
+
+Penicillin G Sodium	Doxycycline Hyclate Hydrate	Penicillins/Tetracyclines
+임상효과 : 두 약물의 병용투여시 페니실린계 약물의 약리학적 효과 및 치료 효과가 감약될 수 있다.
+기전 : 테트라사이클린계 약물의 정균 작용이 페니실린계 약물의 살균작용을 방해할 수 있다.
+처치 : 두 약물의 병용투여는 피하는 것이 바람직하다.
+
+Phenoxymethylpenicillin	Doxycycline Hyclate Hydrate	Penicillins/Tetracyclines
+임상효과 : 두 약물의 병용투여시 페니실린계 약물의 약리학적 효과 및 치료 효과가 감약될 수 있다.
+기전 : 테트라사이클린계 약물의 정균 작용이 페니실린계 약물의 살균작용을 방해할 수 있다.
+처치 : 두 약물의 병용투여는 피하는 것이 바람직하다.
+
+Phenoxymethylpenicillin Calcium	Doxycycline Hyclate Hydrate	Penicillins/Tetracyclines
+임상효과 : 두 약물의 병용투여시 페니실린계 약물의 약리학적 효과 및 치료 효과가 감약될 수 있다.
+기전 : 테트라사이클린계 약물의 정균 작용이 페니실린계 약물의 살균작용을 방해할 수 있다.
+처치 : 두 약물의 병용투여는 피하는 것이 바람직하다.
+
+Phenoxymethylpenicillin Potassium	Doxycycline Hyclate Hydrate	Penicillins/Tetracyclines
+임상효과 : 두 약물의 병용투여시 페니실린계 약물의 약리학적 효과 및 치료 효과가 감약될 수 있다.
+기전 : 테트라사이클린계 약물의 정균 작용이 페니실린계 약물의 살균작용을 방해할 수 있다.
+처치 : 두 약물의 병용투여는 피하는 것이 바람직하다.
+
+Piperacillin Hydrate	Doxycycline Hyclate Hydrate	Penicillins/Tetracyclines
+임상효과 : 두 약물의 병용투여시 페니실린계 약물의 약리학적 효과 및 치료 효과가 감약될 수 있다.
+기전 : 테트라사이클린계 약물의 정균 작용이 페니실린계 약물의 살균작용을 방해할 수 있다.
+처치 : 두 약물의 병용투여는 피하는 것이 바람직하다.
+
+Piperacillin Sodium	Doxycycline Hyclate Hydrate	Penicillins/Tetracyclines
+임상효과 : 두 약물의 병용투여시 페니실린계 약물의 약리학적 효과 및 치료 효과가 감약될 수 있다.
+기전 : 테트라사이클린계 약물의 정균 작용이 페니실린계 약물의 살균작용을 방해할 수 있다.
+처치 : 두 약물의 병용투여는 피하는 것이 바람직하다.
+
+Theophylline	Doxycycline Hyclate Hydrate	Theophyllines/Tetracyclines
+임상효과 : 두 약물의 병용투여시 테오필린계 약물(테오필린 등)에 대한 부작용의 발현 위험이 증가할 수 있다.
+기전 : 정확한 상호작용 기전은 밝혀지지 않았다.
+처치 : 테오필린계 약물을 투여 중인 환자에게 테트라사이클린계 약물의 투여를 시작하거나 중단할 때에는 테오필린계 약물의 혈중 농도를 주의깊게 모니터링 해야 하고, 필요시 약물의 용량을 조절한다.
+
+Theophylline Monohydrate	Doxycycline Hyclate Hydrate	Theophyllines/Tetracyclines
+임상효과 : 두 약물의 병용투여시 테오필린계 약물(테오필린 등)에 대한 부작용의 발현 위험이 증가할 수 있다.
+기전 : 정확한 상호작용 기전은 밝혀지지 않았다.
+처치 : 테오필린계 약물을 투여 중인 환자에게 테트라사이클린계 약물의 투여를 시작하거나 중단할 때에는 테오필린계 약물의 혈중 농도를 주의깊게 모니터링 해야 하고, 필요시 약물의 용량을 조절한다.
+
+Theophylline Sodium Glycinate	Doxycycline Hyclate Hydrate	Theophyllines/Tetracyclines
+임상효과 : 두 약물의 병용투여시 테오필린계 약물(테오필린 등)에 대한 부작용의 발현 위험이 증가할 수 있다.
+기전 : 정확한 상호작용 기전은 밝혀지지 않았다.
+처치 : 테오필린계 약물을 투여 중인 환자에게 테트라사이클린계 약물의 투여를 시작하거나 중단할 때에는 테오필린계 약물의 혈중 농도를 주의깊게 모니터링 해야 하고, 필요시 약물의 용량을 조절한다.
+
+Ticarcillin Monosodium Hydrate	Doxycycline Hyclate Hydrate	Penicillins/Tetracyclines
+임상효과 : 두 약물의 병용투여시 페니실린계 약물의 약리학적 효과 및 치료 효과가 감약될 수 있다.
+기전 : 테트라사이클린계 약물의 정균 작용이 페니실린계 약물의 살균작용을 방해할 수 있다.
+처치 : 두 약물의 병용투여는 피하는 것이 바람직하다.
+
+Ticarcillin Sodium	Doxycycline Hyclate Hydrate	Penicillins/Tetracyclines
+임상효과 : 두 약물의 병용투여시 페니실린계 약물의 약리학적 효과 및 치료 효과가 감약될 수 있다.
+기전 : 테트라사이클린계 약물의 정균 작용이 페니실린계 약물의 살균작용을 방해할 수 있다.
+처치 : 두 약물의 병용투여는 피하는 것이 바람직하다.
+
+Tretinoin	Doxycycline Hyclate Hydrate	Retinoids/Tetracyclines
+임상효과 : 두 약물의 병용투여시 두개 내압이 상승하여 가성뇌종양(두개내 고혈압)을 유발할 수 있다.
+기전 : 정확한 상호작용기전은 밝혀지지 않았으나, 약물의 상가 또는 상승작용에 따른 부작용 발생으로 추정된다.
+처치 : 두 약물은 병용투여하지 않는다.
+
+Tretinoin Tocopheril	Doxycycline Hyclate Hydrate	Retinoids/Tetracyclines
+임상효과 : 두 약물의 병용투여시 두개 내압이 상승하여 가성뇌종양(두개내 고혈압)을 유발할 수 있다.
+기전 : 정확한 상호작용기전은 밝혀지지 않았으나, 약물의 상가 또는 상승작용에 따른 부작용 발생으로 추정된다.
+처치 : 두 약물은 병용투여하지 않는다.
+
+Warfarin	Doxycycline Hyclate Hydrate	Anticoagulants(Warfarin)/Antibiotics
+임상효과 : 항생제와 항응고제(와파린 등)와 동시에 투여 받은 환자에서 항응고 활성의 증가가 보고되었다. 감염성질환(그리고 염증성 과정을 동반한), 환자의 연령과 일반적인 상태는 위험요소가 되며, 항생물질의 일부 종류들, 특히 플루오로퀴놀론, 마크로라이드, 사이클린, 코트리목사졸과 일부 세팔로스포린의 경우에는 상호작용이 더욱 심각하다.
+기전 : 항생제는 장내 세균에 의한 비타민 K의 생산을 억제하며, 이로인해 항응고제(와파린 등)의 항응고작용 작용이 증강될 수 있다.
+처치 : 두 약물의 병용투여시 INR 모니터링을 실시하여야 하고, 필요한 경우 경구용 항응고제(와파린 등)의 용량을 적절히 조절한다. 또한 환자에게 출혈의 초기 징후나 증상들에 대해 알려주도록 한다.
+
+Warfarin Potassium	Doxycycline Hyclate Hydrate	Anticoagulants(Warfarin)/Antibiotics
+임상효과 : 항생제와 항응고제(와파린 등)와 동시에 투여 받은 환자에서 항응고 활성의 증가가 보고되었다. 감염성질환(그리고 염증성 과정을 동반한), 환자의 연령과 일반적인 상태는 위험요소가 되며, 항생물질의 일부 종류들, 특히 플루오로퀴놀론, 마크로라이드, 사이클린, 코트리목사졸과 일부 세팔로스포린의 경우에는 상호작용이 더욱 심각하다.
+기전 : 항생제는 장내 세균에 의한 비타민 K의 생산을 억제하며, 이로인해 항응고제(와파린 등)의 항응고작용 작용이 증강될 수 있다.
+처치 : 두 약물의 병용투여시 INR 모니터링을 실시하여야 하고, 필요한 경우 경구용 항응고제(와파린 등)의 용량을 적절히 조절한다. 또한 환자에게 출혈의 초기 징후나 증상들에 대해 알려주도록 한다.
+
+Warfarin Sodium	Doxycycline Hyclate Hydrate	Anticoagulants(Warfarin)/Antibiotics
+임상효과 : 항생제와 항응고제(와파린 등)와 동시에 투여 받은 환자에서 항응고 활성의 증가가 보고되었다. 감염성질환(그리고 염증성 과정을 동반한), 환자의 연령과 일반적인 상태는 위험요소가 되며, 항생물질의 일부 종류들, 특히 플루오로퀴놀론, 마크로라이드, 사이클린, 코트리목사졸과 일부 세팔로스포린의 경우에는 상호작용이 더욱 심각하다.
+기전 : 항생제는 장내 세균에 의한 비타민 K의 생산을 억제하며, 이로인해 항응고제(와파린 등)의 항응고작용 작용이 증강될 수 있다.
+처치 : 두 약물의 병용투여시 INR 모니터링을 실시하여야 하고, 필요한 경우 경구용 항응고제(와파린 등)의 용량을 적절히 조절한다. 또한 환자에게 출혈의 초기 징후나 증상들에 대해 알려주도록 한다.
+
+Warfarin Sodium Clathrate	Doxycycline Hyclate Hydrate	Anticoagulants(Warfarin)/Antibiotics
+임상효과 : 항생제와 항응고제(와파린 등)와 동시에 투여 받은 환자에서 항응고 활성의 증가가 보고되었다. 감염성질환(그리고 염증성 과정을 동반한), 환자의 연령과 일반적인 상태는 위험요소가 되며, 항생물질의 일부 종류들, 특히 플루오로퀴놀론, 마크로라이드, 사이클린, 코트리목사졸과 일부 세팔로스포린의 경우에는 상호작용이 더욱 심각하다.
+기전 : 항생제는 장내 세균에 의한 비타민 K의 생산을 억제하며, 이로인해 항응고제(와파린 등)의 항응고작용 작용이 증강될 수 있다.
+처치 : 두 약물의 병용투여시 INR 모니터링을 실시하여야 하고, 필요한 경우 경구용 항응고제(와파린 등)의 용량을 적절히 조절한다. 또한 환자에게 출혈의 초기 징후나 증상들에 대해 알려주도록 한다.
+

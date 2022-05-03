@@ -1,0 +1,330 @@
+Croup
+Gas gangrene
+Keratitis
+Keratomycosis
+Hemoptysis
+Liver Cirrhosis
+Hepatic Coma
+Hepatitis
+Epilepsy
+Hearing Disturbance
+Common Cold
+Hypothyroidism
+Hyperthyroidism
+Ankylosing Spondylitis
+Subarachnoid Hemorrhage
+Amnesia
+Psoriasis
+Asteatocic Eczema
+Dry Eye
+Tendonitis
+Ten[d]osynovitis
+Diverticulitis
+Conjunctivitis
+Carcinoma of Colon
+Ganglion
+Erythema Nodosum
+Tuberculosis
+Tuberculous pleurisy
+Febrile Convulsion
+Myringitis
+Hyperlipidemia
+Hyperkalemia
+Hypertension
+Osteoarthritis
+Osteoporosis
+Osteomyelitis
+Myeloma
+Ostreochondrosis
+Fracture
+Irritable Bowel Syndrom IBS
+Coronary Heart Disease
+Infectious Arthritis
+Rheumatoid Arthritis, RA
+Juvenile Rheumatoid Arthritis
+Stomatitis
+Cheiloschisis=Cleft Lip
+Nausea and Vomiting
+Ulcerative Colitis
+Myofascitis
+Acute Bronchitis
+Acute Cholecystitis
+Acute Gastritis
+Acute Pharyngitis
+Acute Pancreatitis
+Bronchiectasis
+Chloasma
+Diaper Dermatitis
+Organic Psychosis
+Pneumothorax
+Tension Headache
+Salpingitis
+Ovarian Insufficiency
+Oophoritis
+Ovatian Tumor
+Nephrotic Syndrome
+Nocardiasis
+Glaucoma
+Impetigo
+Pyonephrosis
+Pyoderma
+Pyothorax
+Intracerebral Hemorrhage
+Encephalitis
+Cerebral arteriosclerosis
+Brain Tumor
+Postconcussion syndrome
+Hyperpituitarism
+Pituitary Tumor
+Intercostal Neuralgia
+Pleurisy
+Multiple Sclerosis
+Down's Syndrome
+Hyperhidrosis
+Erysipelas
+Cholangitis
+Cholecystisis
+Cholelithiasis
+Diabetes Melitus, Non-Insulin-Dependent NIDDM
+Diabetes Mellitus, Insulin-Dependent IDDM
+Diabetic Retinopathy
+Motion Sickness
+Arteriovenous aneurysm
+Urticaria
+Headache
+Herniated Disk
+Diphteria
+Reye's Syndrome
+Reiter's Syndrome
+Lyme Disease
+Raynaud's Disease
+Legionela pneumophilia bronchopneumonia
+Rheumatic Fever
+Chronic Bronchitis
+Chronic Gastritis
+Chronic Pancreatitis
+Chronic Obstructive Pulmonary Disease,COPD
+Malaria
+Peripheral neuropathy
+Peripheral Vein Disease
+Syphilis
+Hordeolum
+Meniere's Disease
+Folliculitis
+Candidiasis of Intertriginous Skin
+Secondary Amenorrhea
+Primary Amenorrhea
+Tinea Pedis, Athlete's Foot
+Hand, Foot and Mouth Disease
+Erectile Dysfunction
+Cystitis
+Cataract
+Vitiligo
+Whooping Cough
+Leukemia
+Behcet's Disease
+Constipation
+Peritonitis
+Ascites
+Mumps
+Phlegmon
+Sinusitis
+Paranasal Sinusitis
+Arrhythmia
+Edema
+Insomnia
+Anxiety Disorders
+Non-peptic Dyspepsia
+Obesity
+Rhinitis
+Nasal polyps
+Macrocytic Anemia
+Pernicious Anemia
+Hemolytic Anemia
+Anemia During Pregnancy
+Aplastic Anemia
+Iron-Deficiency Anemia
+Torticolis
+Glomerulonephritis
+Verruca
+Strabismus
+Salmonellosis
+Trigeminal Neuralgis
+Granuloma Inguinal
+Congenital Megacolon
+Diarrhea
+Lymphogranuloma Venereum
+Scarlet Fever
+Bacterial Dysentery
+Bronchiolitis
+Celiac Disease
+Peptic Ulcer
+Carpal-tunnel Syndrome
+Chickenpox
+Eczema
+Optic Neuritis
+Esophagitis
+Esophageal Varices
+Food Poisoning
+Renal Calculi
+Neuritis
+Neurosis
+Neuralgia
+Acute Renal Insufficiency
+Chronic Renal Insufficiency
+Neoplasma
+Neonatal Jaundice
+Pyelonephritis
+Nephronic Syndrome
+Syncope
+Palpitation
+Myocardial Infarction
+Myocarditis
+Cardiomyopathy
+Endocarditis
+Thrush
+Entamebiasis
+Aspergillosis
+Atopic Dermatitis
+Malignant Laryngeal Tumor
+Entropion
+Blepharitis
+Facial Palsy
+Allegic Rhinitis
+Enuresis
+Acne Vulgaris
+Soft Chancre
+Heatstroke or Heat Exhaustion
+Frozen Shoulder=Adhesive Capsulitis
+Scabies
+Pruritis Vulvae
+Vulvovaginitis before puberty
+Otitis externa
+Ureteral Stone
+Urethritis
+Diabetes Insipidus
+Aconuresis
+Urinary retention
+Decubitus
+Depression
+Congestive Heart Failure
+Dysmenorrhea
+Premenstrual Syndrome
+Gastric Ulcer
+Pseudomembranous Enterocolitis
+Reflex Esophagitis
+Gastroenteritis
+Lactose Intolerance
+Breast Abscess
+Cancer of Breast
+Mastitis
+Abortion
+Lice
+Otosclerosis
+Tinnitus
+Otomycosis
+Otalgia
+Pharyngo Conjunctival Fever
+Pharyngitis
+Adenoids
+Influenza
+Hyperemesis Gravidarum
+Pre-eclampsia and Eclampsia
+Gonorrhea
+Cervicitis
+Uterine Myoma
+Endometriosis
+Endometrial Hyperplasia
+Fibroid Tumors of the Uterus
+Uterine Cancer
+Purpura
+Caisson Disease
+Enteritis
+Typhoid Fever
+Intestinal Obstruction
+Functional Hypoglycemia
+Hypoglycemia
+Orthostatic Hypotension
+Hypotension
+Prostatic Hypertrophy
+Prostatitis
+Systemic Lupus erythematosus SLE
+Molluscum
+Vertigo
+Placenta previa
+Bursitis
+Undescended Testis
+Schizophrenia
+Cesarean Section (CS)
+Mania
+Ischialgia
+Contact Dermatitis
+Rosacea
+Atherosclerosis
+Toxic Erythema
+Otitis media
+Myasthenia Gravis
+Seborrheic Dermatitis
+Fatty Liver
+Proctocele
+Pneumoconiosis
+Vaginal Candidiasis
+Vaginalitis
+Gardnerella Vaginitis
+Atrophic Vaginitis
+Trichomonal Vaginitis
+Myelitis
+Scoliosis
+Spondylolisthesis
+Kyphosis
+Bronchial Asthma
+Pemphigus
+Trichiasis
+Appendicitis
+Dementia
+Dental Caries
+Gingivitis
+Hemorrhoids
+Cholera
+Cushing's Syndrome
+Creutzfeld-Jakob's Disease
+Crohn's Disease
+Dislocation
+Dehydration
+Turner's Syndrome
+Gout
+Idiopathic Thrombocytopenic Purpura ; ITP
+Corn
+Tic
+Tetanus
+Parkinson's Disease
+Valvular Heart Disease
+Sepsis
+Tonsillitis
+Migraine Headache
+Lichen Planus
+Menopause
+Emphysema
+Pneumonia
+Pulmonary Edema
+Buerger's Disease
+Rubella
+Dermatitis
+Sunburn
+Varicella
+Herpes Simplex
+Herpes Zoster
+Herpetic Keratitis
+Quincke's Edema
+Hematuria
+Hemophilia
+Thrombus
+Angina Pectoris
+Hodgkin's Disease
+Dyspnea
+Coma
+Erythrasma
+Measles
+Iridocyclitis
+Burn
+Jaundice

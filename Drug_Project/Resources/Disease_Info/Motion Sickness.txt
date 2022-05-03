@@ -1,0 +1,8 @@
+질환명 (한글) 동요병 질환명 (영문) Motion Sickness 
+분류 : 
+기타 : 질환 
+상병코드 : T753 
+정의 : 여행하는 동안 일시적으로 불쾌한 느낌이 생기며, 어지럽고 속이 거북한 것이 특징으로 안쪽 귀에 있는 세반고리관에 이상이 생겨 발생하는 질환으로 남녀 모든 연층에서 발생한다. 
+원인 : 교통수단(특히 비행기, 배, 자동차)을 이용하여 여행하는 경우 불규칙한 움직임이 안쪽귀의 세반고리관 내에 차 있는 액체에 변화를 주어 대뇌의 구토중추를 자극하여 발생한다. 
+증상 : 식욕상실, 오심, 구토, 현기증, 쇠약감 
+치료 : 약물요법 항구토제 사용 Dopamine antagonists (prochlorperazine, metoclopramide, domperidone) 5-HT₃antagonists(ondansetron, granisetron) Anticholinergicdrugs (hyoscine) Antihistamines (cinnarizine, promethazine, cyclizine) 기타 일반요법 심리적인 요인에 의해 일어나기 쉬우므로 집을 떠나기 전에 여행에 대한 긴장을 푼다.

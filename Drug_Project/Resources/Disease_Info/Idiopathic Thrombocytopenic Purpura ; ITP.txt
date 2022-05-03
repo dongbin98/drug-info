@@ -1,0 +1,8 @@
+질환명 (한글) 특발성혈소판감소성자반증 질환명 (영문) Idiopathic Thrombocytopenic Purpura ; ITP 
+분류 : 근골격계 및 결합조직 질환 
+상병코드 : M311 
+정의 : 여러 요인(질환, 약제) 또는 원인불명에 의해 항혈소판 항체를 형성하고 이로 인해혈소판의 파괴가 가속화됨으로써 혈소판감소증(결국은 출혈)을 유발하는 자가면역질환으로 크게 급성과 만성으로 나눌 수 있다. 
+원인 : 1) 급성ITP 혈소판의 Fc 수용체에 결합하는 바이러스항원을 가진 면역복합체 또는 바이러스항원에 대하여 형성되었으면서 혈소판과 교차반응하는 항체에 의해 발생된다. 원인은 바이러스성 발진(exanthem), 상기도감염 후에 갑자기 발생했다가 6개월이내에 서서히 회복된다. 주로(약 90%정도) 소아에서 발병하는데 발병된 소아의 60%가 4-6주이내에 회복되고 90%는 3-6개월이내에 회복된다. 2) 만성ITP 
+증상 : 심각한 혈소판감소증(platelet counts <50,000/mcl), 출혈, 정상 erythrocyte and leukocyte morphology, 정상 또는 증가된 골수 megakaryocytes, platelet 연관성 IgG 존재 
+치료 : 약물요법 치료는 환자의 나이, 병의 경증도, 예후에 의존한다. 1) 출혈 성인은 소아에 비해 두개내의 출혈빈도가 높지만 혈소판수가 20,000/mm3이상 이거나 출혈이 심하지 않으면 특별한 치료를 요하지 않는다. 2) 급성출혈 Glucocorticoid, 혈장교환, gamma-globulin(정맥), 응급 비장절제술 3) 만성출혈 Glucocorticoid(고용량 prednisolone), 비장절제술, 면역억제제(azathioprine, cyclophosphamide, vincristine, vinblastine), androgen호르몬(danazol) 
+기타 : SLE, 만성 lymphocytic leukemia, lymphoma 질환의 초기증상으로 나타날 수 있으므로, 이들 질환의 진단에 필요한 추가적 진단들이 필요하다.
