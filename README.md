@@ -6,3 +6,9 @@ Selenium을 이용하여 약학정보원에 로그인 후, 필요한 정보를 J
 ## Environments
 - Windows 10
 - Java
+
+## Result
+<p align="left">
+  <img width="40%" src="https://user-images.githubusercontent.com/77912766/228224440-05aa108e-6124-44be-952a-bc151a6bb4ff.png"/>
+  <img width="40%" src="https://user-images.githubusercontent.com/77912766/228224448-be7f8cef-139d-408f-a86e-1fc5c74db308.png"/>
+</p>
